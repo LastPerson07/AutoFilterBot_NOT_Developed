@@ -6,26 +6,6 @@
 - ✅ Reset All Group Settings (Owner Only)
 - ✅ 3 Verification System
 
----
-
-## 🙏 Special Thanks To
-
-- 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/BeingXAnonymous)
-- 🌴 [⌯ ᴢɪsʜᴀɴ | ×͜× |](https://t.me/IM_JISSHU)
-- 🌴 [⌯ ʙʜᴀʀᴀᴛʜ | ×͜× |](https://t.me/Bharath_boy)
-- 🌴 [Harshal Purohit Edits](https://github.com/HarshalPurohitEdits)
-- 🌴 [Support Group](https://t.me/Deendayal_Support_Group)
-
----
-
-## 🛠 Need Help Deploying?
-
-Join our support group for assistance:
-
-[![Join Support Group](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white)](https://t.me/Deendayal_Support_Group)
-
----
-
 ## 🌟 Features
 - ✅ Double db support 
 - ✅ Stream Mode Toggle  
@@ -64,10 +44,6 @@ Join our support group for assistance:
 - ✅ Chat Leave/Disable  
 - ✅ Auto Delete Old Files  
 - ✅ …and more!
-
-📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/dreamxbotz).*
-
----
 
 ## ⚙️ Commands
 
@@ -113,8 +89,8 @@ Use at your own discretion and **always respect platform rules and copyrights**.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/MrRaazz/DreamxBotz/blob/main/LICENSE)
+This project is licensed under the [MIT License]
 
 ---
 
-<p align="center"><b>Jai Shree Krishna 🙏😉</b></p>
+<p align="center"><b>😉</b></p>
